@@ -89,11 +89,11 @@
   <a href="https://www.linkedin.com/in/guilherme-de-oliveira-rocha-04aa371a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/guig021/" target="_blank">
+  <a href="https://www.instagram.com/dev_guigui/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:cmp.1a.gui.loiro22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:contatoguilhermeoliveira@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" />
   </a>
 </p>
 
