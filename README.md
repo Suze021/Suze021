@@ -53,8 +53,8 @@
 <!-- Instancia DEDICADA do github-readme-stats (hospedada na minha conta Vercel),
      sem o problema de cota das instancias publicas -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-pink-eight-14.vercel.app/api?username=Suze021&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=1E90FF&icon_color=6495ED" alt="Estatísticas (commits, estrelas, PRs)" />
-  <img height="180em" src="https://github-readme-stats-pink-eight-14.vercel.app/api/top-langs/?username=Suze021&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=1E90FF" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-eta-ruby-54.vercel.app/api?username=Suze021&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=1E90FF&icon_color=6495ED" alt="Estatísticas (commits, estrelas, PRs)" />
+  <img height="180em" src="https://github-readme-stats-eta-ruby-54.vercel.app/api/top-langs/?username=Suze021&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=1E90FF" alt="Linguagens mais usadas" />
 </p>
 
 <!-- Cards extras (commits por linguagem e horarios produtivos) -->
